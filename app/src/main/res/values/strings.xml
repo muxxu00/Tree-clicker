@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tree clicker</string>
+    <string name="clicks_x2">CLICKS X2</string>
+    <string name="button">ACHETER</string>
+    <string name="feuille_sec">+1 FEUILLES/sec</string>
+    <string name="sac_de_feuille_sec">SAC DE FEUILLES +10 FEUILLES/sec</string>
+    <string name="panier_de_feuille">PANIER DE FEUILLES +100 FEUILLES/sec</string>
+    <string name="piscine_de_feuille">PISCINE DE FEUILLES +1000 FEUILLES/sec</string>
+    <string name="camion_de_feuille">CAMION DE FEUILLES +10000 FEUILLES/sec</string>
+    <string name="retour">retour</string>
+    <string name="amelioration_arbre">amélioration arbre</string>
+    <string name="feuilles_0">FEUILLES 0</string>
+
+</resources>
